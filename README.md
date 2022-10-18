@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi 👋, I'm Mereithhh (in fact mereith is my usual name but was taken). A coder from China.
 
-- 🔭 I’m currently looking for a new job.
+- 🔭 I’m currently working as a fullstack engineer for a start-up AI company.
 - 🔧 Recently I usually use Javascript/Typescript for my projects.
 - ⚡ I am interested in most things about technology and coding.
 - 🌱 I’m currently learning rust and golang.
