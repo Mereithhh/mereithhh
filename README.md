@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Hi 👋, I'm Mereithhh (in fact mereith is my usual name but was taken). A coder from China.
 
 - 🔭 I’m currently working as a fullstack engineer for a start-up AI company.
-- 🔧 Recently I usually use Javascript/Typescript for my projects.
+- 🔧 Recently I usually use Golang/Python/TypeScript.
 - ⚡ I am interested in most things about technology and coding.
-- 🌱 I’m currently learning rust and golang.
+- 🌱 I’m currently learning algorithm.
 - 🤔 I like tossing and I am keen to build a homelab at home. 
 - ⚡️ Coding is fun.
  
